@@ -2,15 +2,14 @@
 
 Desarrollo en la Certificación de Sistemas de IA Agéntica
 
+- **Curso GH-600T00-A: Desarrollo en Sistemas de IA Agéntica - Formación | Microsoft Learn** (referencia)
+https://learn.microsoft.com/en-us/training/courses/gh-600t00
+
 - GitHub Learn - Detalles de la certificación
 https://learn.github.com/certification/AGENTIC
 
 - Study guide for Exam GH-600: Developing in Agentic AI Systems | Microsoft Learn
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-600
-
-
-- Curso GH-600T00-A: Desarrollo en Sistemas de IA Agéntica - Formación | Microsoft Learn
-https://learn.microsoft.com/en-us/training/courses/gh-600t00
 
 - Ethan-Vector (Ethan Vector)
 https://github.com/Ethan-Vector
