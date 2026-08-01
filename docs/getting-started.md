@@ -1,25 +1,25 @@
-# Getting Started with GH-600 Study Guide
+# Primeros pasos con la guía de estudio GH-600
 
-This guide covers the essential preparation steps for the **GitHub Certified: Agentic AI Developer (GH-600)** exam.
+Esta guía cubre los pasos esenciales de preparación para el examen **GitHub Certified: Agentic AI Developer (GH-600)**.
 
-## Core Learning Objectives
+## Objetivos de aprendizaje centrales
 
-1. **Agentic AI Architecture**
-   - Understanding autonomous workflows, planning, memory, and tool usage.
-2. **GitHub Tools & Integration**
-   - GitHub Copilot, custom skills, actions, and subagents.
-3. **Prompt Engineering & Tool Use**
-   - Best practices for structuring prompts, context retrieval, and function calling.
+1. **Arquitectura de IA Agéntica**
+   - Comprender flujos de trabajo autónomos, planificación, memoria y uso de herramientas.
+2. **Herramientas e integración de GitHub**
+   - GitHub Copilot, habilidades personalizadas, acciones y subagentes.
+3. **Ingeniería de prompts y uso de herramientas**
+   - Buenas prácticas para estructurar prompts, recuperación de contexto y llamadas a funciones.
 
-## Study Checklist
+## Lista de verificación de estudio
 
-- [x] Read official training modules on Microsoft Learn.
-- [ ] Complete hands-on labs and flashcard reviews.
-- [ ] Take practice exams on GitHub Certification hub.
+- [x] Leer los módulos oficiales de formación en Microsoft Learn.
+- [ ] Completar laboratorios prácticos y revisiones de tarjetas didácticas.
+- [ ] Realizar exámenes de práctica en el hub de certificación de GitHub.
 
 ```bash
-# Example command for testing local builds
+# Comando de ejemplo para probar compilaciones locales
 python3 build.py
 ```
 
-[Back to Docs Overview](index.md)
+[Volver a la vista general de la documentación](index.md)

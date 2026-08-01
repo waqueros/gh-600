@@ -1,14 +1,14 @@
-# Documentation Overview
+# Visión general de la documentación
 
-Welcome to the documentation subfolder for **GH-600: Developing in Agentic AI Systems Certification**.
+Bienvenido a la subcarpeta de documentación para **GH-600: Desarrollo en la Certificación de Sistemas de IA Agéntica**.
 
-## Topics & Resources
+## Temas y recursos
 
-- [Getting Started](getting-started.md) - Learn how to set up your environment and study resources.
-- [Project Readme](../README.md) - Return to the main project overview.
+- [Primeros pasos](getting-started.md) - Aprende a configurar tu entorno y recursos de estudio.
+- [Readme del proyecto](../README.md) - Regresa a la vista general del proyecto.
 
-## Features of this Documentation Site
+## Características de este sitio de documentación
 
-- **Markdown Driven**: All contents are authored pure `.md` format in the `docs/` folder or root `README.md`.
-- **Pandoc Generator**: Built using Pandoc with a custom responsive template.
-- **Automated CI/CD**: Automatically published to GitHub Pages upon pushing to `main`.
+- **Impulsado por Markdown**: Todo el contenido está escrito en formato `.md` puro en la carpeta `docs/` o en `README.md` raíz.
+- **Generador Pandoc**: Construido usando Pandoc con una plantilla responsable y personalizada.
+- **CI/CD automatizado**: Publicado automáticamente en GitHub Pages al hacer push a `main`. 
