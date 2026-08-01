@@ -5,6 +5,10 @@ Desarrollo en la Certificación de Sistemas de IA Agéntica
 - GitHub Learn - Detalles de la certificación
 https://learn.github.com/certification/AGENTIC
 
+- Study guide for Exam GH-600: Developing in Agentic AI Systems | Microsoft Learn
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-600
+
+
 - Curso GH-600T00-A: Desarrollo en Sistemas de IA Agéntica - Formación | Microsoft Learn
 https://learn.microsoft.com/en-us/training/courses/gh-600t00
 
@@ -26,5 +30,9 @@ https://www.youtube.com/watch?v=jwUZNw3CfLY
 - GitHub - jtur671/gh-600-study-guide: Materiales de estudio gratuitos para el examen GH-600 GitHub Certified: Agentic AI Developer — 67 tarjetas didácticas, un examen de práctica de 41 preguntas, 6 laboratorios prácticos, diagramas de conceptos y mazos de Anki. · GitHub
 https://github.com/jtur671/gh-600-study-guide
 
-- (exámenes de práctica) Elige una trayectoria de certificación — GitHub Certified (por ahora solo 2 preguntas para GH-600)
-https://ghcertified.com/en/practice-tests
+
+- Custom agents configuration - GitHub Docs
+https://docs.github.com/en/copilot/reference/custom-agents-configuration
+
+<!-- - (exámenes de práctica) Elige una trayectoria de certificación — GitHub Certified (por ahora solo 2 preguntas para GH-600)
+https://ghcertified.com/en/practice-tests -->
