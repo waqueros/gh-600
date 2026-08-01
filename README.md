@@ -5,10 +5,11 @@ Developing in Agentic AI Systems Certification
 - GitHub Learn - Certification Details
 https://learn.github.com/certification/AGENTIC
 
-- Introduction - Training | Microsoft Learn
-https://learn.microsoft.com/en-us/training/modules/foundations-agentic-ai/1-introduction
+- Course GH-600T00-A: Developing in Agentic AI Systems - Training | Microsoft Learn
+https://learn.microsoft.com/en-us/training/courses/gh-600t00
 
-- https://github.com/Ethan-Vector
+- Ethan-Vector (Ethan Vector)
+https://github.com/Ethan-Vector
 
 - Videos about concepts, architectures and real example
 https://sites.google.com/view/agentic-ai-system/bonuses#h.euly4c6kgsoo
