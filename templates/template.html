@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>$if(pagetitle)$$pagetitle$$else$Documentation$endif$</title>
+  $for(css)$
+  <link rel="stylesheet" href="$css$">
+  $endfor$
+</head>
+<body>
+  <header class="site-header">
+    <a href="$relpath$index.html" class="site-brand">
+      📚 <span>GH-600 Docs</span>
+    </a>
+    <nav class="site-nav">
+      <a href="$relpath$index.html">Home</a>
+      <a href="$relpath$docs/index.html">Docs</a>
+      <a href="https://github.com" target="_blank" rel="noopener">GitHub</a>
+    </nav>
+  </header>
+
+  <div class="layout-container">
+    $if(toc)$
+    <aside class="sidebar">
+      <h3>Table of Contents</h3>
+      $toc$
+    </aside>
+    $endif$
+
+    <main class="main-content">
+      $body$
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>Generated with Pandoc &bull; Deployed via GitHub Actions</p>
+  </footer>
+</body>
+</html>

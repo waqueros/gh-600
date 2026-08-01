@@ -1,29 +1,30 @@
 # gh-600
 
-Developing in Agentic AI Systems Certification
+Desarrollo en la Certificación de Sistemas de IA Agéntica
 
-- GitHub Learn - Certification Details
+- GitHub Learn - Detalles de la certificación
 https://learn.github.com/certification/AGENTIC
 
-- Introduction - Training | Microsoft Learn
-https://learn.microsoft.com/en-us/training/modules/foundations-agentic-ai/1-introduction
+- Curso GH-600T00-A: Desarrollo en Sistemas de IA Agéntica - Formación | Microsoft Learn
+https://learn.microsoft.com/en-us/training/courses/gh-600t00
 
-- https://github.com/Ethan-Vector
+- Ethan-Vector (Ethan Vector)
+https://github.com/Ethan-Vector
 
-- Videos about concepts, architectures and real example
+- Videos sobre conceptos, arquitecturas y ejemplo real
 https://sites.google.com/view/agentic-ai-system/bonuses#h.euly4c6kgsoo
 
-- New GitHub Certified: Agentic AI Developer · community · Discussion #195743
+- Nuevo GitHub Certified: Agentic AI Developer · community · Discussion #195743
 https://github.com/orgs/community/discussions/195743
 
-- The Agentic AI Developer: Deep Dive into the GitHub GH-600 Certification - YouTube
+- The Agentic AI Developer: Profundización en la certificación GitHub GH-600 - YouTube
 https://www.youtube.com/watch?v=bgj20o0kYKg
 
-- GH-600 Full Official Prep Course, All Microsoft Learn Units Covered - YouTube
+- Curso oficial completo de preparación GH-600, todas las unidades de Microsoft Learn cubiertas - YouTube
 https://www.youtube.com/watch?v=jwUZNw3CfLY
 
-- GitHub - jtur671/gh-600-study-guide: Free study materials for the GH-600 GitHub Certified: Agentic AI Developer exam — 67 flashcards, a 41-question mock exam, 6 hands-on labs, concept diagrams, and Anki decks. · GitHub
+- GitHub - jtur671/gh-600-study-guide: Materiales de estudio gratuitos para el examen GH-600 GitHub Certified: Agentic AI Developer — 67 tarjetas didácticas, un examen de práctica de 41 preguntas, 6 laboratorios prácticos, diagramas de conceptos y mazos de Anki. · GitHub
 https://github.com/jtur671/gh-600-study-guide
 
-- (mock exams) Choose a certification track — GitHub Certified (for now just 2 questions for GH-600)
+- (exámenes de práctica) Elige una trayectoria de certificación — GitHub Certified (por ahora solo 2 preguntas para GH-600)
 https://ghcertified.com/en/practice-tests
