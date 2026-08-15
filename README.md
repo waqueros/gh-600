@@ -35,3 +35,4 @@ https://docs.github.com/en/copilot/reference/custom-agents-configuration
 
 <!-- - (exámenes de práctica) Elige una trayectoria de certificación — GitHub Certified (por ahora solo 2 preguntas para GH-600)
 https://ghcertified.com/en/practice-tests -->
+https://awesome-copilot.github.com/learning-hub/github-copilot-app/
