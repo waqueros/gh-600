@@ -5,6 +5,9 @@ Desarrollo en la Certificación de Sistemas de IA Agéntica
 - **Curso GH-600T00-A: Desarrollo en Sistemas de IA Agéntica - Formación | Microsoft Learn** (referencia)
 https://learn.microsoft.com/en-us/training/courses/gh-600t00
 
+- Copilot Academy - Agentic Workflows Developer Guide | GitHub Copilot
+https://copilot-academy.github.io/workshops/copilot-customization/agentic_workflows
+
 - GitHub Learn - Cursos específicos
 https://learn.github.com/courses?product=GitHub Copilot&credential=GitHub Agentic AI Developer
 
